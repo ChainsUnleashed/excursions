@@ -34,7 +34,7 @@ p {
   font-size: 21px;
 }
 
-#copy {
+.copy {
   text-align: right !important;
   color: grey;
 }
